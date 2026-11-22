@@ -1,0 +1,32 @@
+{
+  "name": "170k-weather-apis-for-agents",
+  "old_name": "190k-weather-apis-for-agents",
+  "new_name": "170k-weather-apis-for-agents",
+  "url": "https://github.com/agentpopulation/170k-weather-apis-for-agents",
+  "description": "177,892 weather API endpoints that passed a keyless data call. For agent tools, apps, pipelines and evals. CSV, CC BY 4.0.",
+  "homepage": "https://agentpopulation.com/apis",
+  "topics": [
+    "api-endpoints",
+    "open-data",
+    "dataset",
+    "ai-agents",
+    "agent-tools",
+    "agentpopulation",
+    "weather-api",
+    "weather-data",
+    "forecast",
+    "climate-data",
+    "air-quality",
+    "meteorology"
+  ],
+  "release": {
+    "tag": "snapshot-2026-11-15",
+    "title": "Weather API endpoints · snapshot 15 Nov 2026 · 177,892 endpoints",
+    "notesFile": "RELEASE_NOTES.md",
+    "manifest": "../_release/weather-api-endpoints/release.json",
+    "assets": [
+      "../_release/weather-api-endpoints/Weather_API_Endpoints_AgentPopulation_Snapshot_2026-11-15.csv.gz",
+      "../_release/weather-api-endpoints/SHA256SUMS.txt"
+    ]
+  }
+}
